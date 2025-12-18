@@ -1,2 +1,1 @@
-## Database Documentation
-### Mahesh Sweets & Restaurant
+## Database Documentation - Mahesh Sweets & Restaurant 

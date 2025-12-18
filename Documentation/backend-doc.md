@@ -1,2 +1,1 @@
-## Backend Documentation
-### Mahesh Sweets & Restaurant 
+## Backend Documentation - Mahesh Sweets & Restaurant 

@@ -1,2 +1,1 @@
-## Frontend Documentation
-### Mahesh Sweets & Restaurant 
+## Frontend Documentation - Mahesh Sweets & Restaurant 
