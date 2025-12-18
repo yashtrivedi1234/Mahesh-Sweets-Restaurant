@@ -2,7 +2,7 @@
 
 ```sh
 # Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/yashtrivedi1234/Mahesh-Sweets-Restaurant.git
 
 # Step 2: Navigate to the frontend directory
 cd frontend
